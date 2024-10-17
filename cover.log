@@ -1,0 +1,625 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.5.10)  17 OCT 2024 20:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cover.tex
+(./cover.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                      % 开始封面页定义
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.6 ^^I\includegraphics
+                       [scale=0.12]{fig/校徽.png}\\[0.7cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ^^I\includegraphics[
+                        scale=0.12]{fig/校徽.png}\\[0.7cm]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ ("5B) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no ] ("5D) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no / ("2F) in font nullfont!
+Missing character: There is no 校 ("6821) in font nullfont!
+Missing character: There is no 徽 ("5FBD) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+! Undefined control sequence.
+l.9 ^^I{\heiti
+               \sanshihao \textbf{全日制本（专）科学生毕业设计}}\\[2.5cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9 ^^I{\heiti \sanshihao
+                          \textbf{全日制本（专）科学生毕业设计}}\\[2.5cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ^^I{\heiti \sanshihao \textbf{全日制本（专）科学生毕业设计}
+                                                 }\\[2.5cm]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 全 (U+5168) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 日 (U+65E5) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 制 (U+5236) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 本 (U+672C) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no （ (U+FF08) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 专 (U+4E13) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ） (U+FF09) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 科 (U+79D1) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 学 (U+5B66) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 生 (U+751F) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 毕 (U+6BD5) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 业 (U+4E1A) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 设 (U+8BBE) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no 计 (U+8BA1) in font [lmroman10-bold]:mapping=tex-
+text;!
+
+Overfull \hbox (39.2pt too wide) in paragraph at lines 9--9
+ []\TU/lmr/bx/n/10 全日制本（专）科学生毕业设计 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ^^I\begin{tabular}
+                       {c c c c}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+Missing character: There is no 题 ("9898) in font nullfont!
+Missing character: There is no 目 ("76EE) in font nullfont!
+Missing character: There is no 你 ("4F60) in font nullfont!
+Missing character: There is no 的 ("7684) in font nullfont!
+Missing character: There is no 名 ("540D) in font nullfont!
+Missing character: There is no 字 ("5B57) in font nullfont!
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.11 ...e{0.5cm}} 你的名字 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I'm guessing that you meant to end an alignment here.
+
+! Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.12 ^^I^^I学
+            院 & \multicolumn{3}{c}{\makebox[10cm]{\hrulefill \hspace{0.5cm} ...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ^^I^^I学
+            院 & \multicolumn{3}{c}{\makebox[10cm]{\hrulefill \hspace{0.5cm} ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 学 ("5B66) in font nullfont!
+Missing character: There is no 院 ("9662) in font nullfont!
+! Misplaced alignment tab character &.
+l.12 ^^I^^I学院 &
+                \multicolumn{3}{c}{\makebox[10cm]{\hrulefill \hspace{0.5cm} ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.12 ...ce{0.5cm} 学院名称 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.12 ...ce{0.5cm} 学院名称 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.12 ...ce{0.5cm} 学院名称 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.12 ...ce{0.5cm} 学院名称 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.12 ...ce{0.5cm} 学院名称 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+Missing character: There is no 学 ("5B66) in font nullfont!
+Missing character: There is no 院 ("9662) in font nullfont!
+Missing character: There is no 名 ("540D) in font nullfont!
+Missing character: There is no 称 ("79F0) in font nullfont!
+! Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.13 ^^I^^I专
+            业班级 & \multicolumn{3}{c}{\makebox[10cm]{\hrulefill \hspace{0.5cm...
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 专 ("4E13) in font nullfont!
+Missing character: There is no 业 ("4E1A) in font nullfont!
+Missing character: There is no 班 ("73ED) in font nullfont!
+Missing character: There is no 级 ("7EA7) in font nullfont!
+! Misplaced alignment tab character &.
+l.13 ^^I^^I专业班级 &
+                  \multicolumn{3}{c}{\makebox[10cm]{\hrulefill \hspace{0.5cm...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.13 ...ce{0.5cm} 班级名称 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.13 ...ce{0.5cm} 班级名称 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.13 ...ce{0.5cm} 班级名称 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Misplaced \span.
+\sp@n ->\span 
+              \omit \advance \@multicnt \m@ne 
+l.13 ...ce{0.5cm} 班级名称 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \omit.
+\sp@n ->\span \omit 
+                    \advance \@multicnt \m@ne 
+l.13 ...ce{0.5cm} 班级名称 \hspace{0.5cm} \hrulefill}}
+                                                   \\
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+Missing character: There is no 班 ("73ED) in font nullfont!
+Missing character: There is no 级 ("7EA7) in font nullfont!
+Missing character: There is no 名 ("540D) in font nullfont!
+Missing character: There is no 称 ("79F0) in font nullfont!
+! Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.14 ^^I^^I学
+            生姓名 & \makebox[3cm]{\hrulefill} & 学号 & \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 学 ("5B66) in font nullfont!
+Missing character: There is no 生 ("751F) in font nullfont!
+Missing character: There is no 姓 ("59D3) in font nullfont!
+Missing character: There is no 名 ("540D) in font nullfont!
+! Misplaced alignment tab character &.
+l.14 ^^I^^I学生姓名 &
+                  \makebox[3cm]{\hrulefill} & 学号 & \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.14 ^^I^^I学生姓名 & \makebox[3cm]{\hrulefill} &
+                                              学号 & \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 学 ("5B66) in font nullfont!
+Missing character: There is no 号 ("53F7) in font nullfont!
+! Misplaced alignment tab character &.
+l.14 ^^I^^I学生姓名 & \makebox[3cm]{\hrulefill} & 学号 &
+                                                   \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.15 ^^I^^I指
+            导老师 & \makebox[3cm]{\hrulefill} & 职称 & \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 指 ("6307) in font nullfont!
+Missing character: There is no 导 ("5BFC) in font nullfont!
+Missing character: There is no 老 ("8001) in font nullfont!
+Missing character: There is no 师 ("5E08) in font nullfont!
+! Misplaced alignment tab character &.
+l.15 ^^I^^I指导老师 &
+                  \makebox[3cm]{\hrulefill} & 职称 & \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.15 ^^I^^I指导老师 & \makebox[3cm]{\hrulefill} &
+                                              职称 & \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 职 ("804C) in font nullfont!
+Missing character: There is no 称 ("79F0) in font nullfont!
+! Misplaced alignment tab character &.
+l.15 ^^I^^I指导老师 & \makebox[3cm]{\hrulefill} & 职称 &
+                                                   \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.16 ^^I^^I评
+            审老师 & \makebox[3cm]{\hrulefill} & 职称 & \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 评 ("8BC4) in font nullfont!
+Missing character: There is no 审 ("5BA1) in font nullfont!
+Missing character: There is no 老 ("8001) in font nullfont!
+Missing character: There is no 师 ("5E08) in font nullfont!
+! Misplaced alignment tab character &.
+l.16 ^^I^^I评审老师 &
+                  \makebox[3cm]{\hrulefill} & 职称 & \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.16 ^^I^^I评审老师 & \makebox[3cm]{\hrulefill} &
+                                              职称 & \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no 职 ("804C) in font nullfont!
+Missing character: There is no 称 ("79F0) in font nullfont!
+! Misplaced alignment tab character &.
+l.16 ^^I^^I评审老师 & \makebox[3cm]{\hrulefill} & 职称 &
+                                                   \makebox[3cm]{\hrulefill} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.17 ^^I\end
+            {tabular}
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced \crcr.
+\endtabular ->\crcr 
+                    \egroup \egroup $\egroup 
+l.17 ^^I\end{tabular}
+                     
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (284.52756pt too wide) in paragraph at lines 12--17
+ [] 
+ []
+
+
+Overfull \hbox (284.52756pt too wide) in paragraph at lines 12--17
+ [] 
+ []
+
+
+Overfull \hbox (85.35826pt too wide) in paragraph at lines 12--17
+ [] 
+ []
+
+
+Overfull \hbox (85.35826pt too wide) in paragraph at lines 12--17
+ [] 
+ []
+
+
+Overfull \hbox (85.35826pt too wide) in paragraph at lines 12--17
+ [] 
+ []
+
+
+Overfull \hbox (85.35826pt too wide) in paragraph at lines 12--17
+ [] 
+ []
+
+
+Overfull \hbox (85.35826pt too wide) in paragraph at lines 12--17
+ [] 
+ []
+
+
+Overfull \hbox (85.35826pt too wide) in paragraph at lines 12--17
+ [] 
+ []
+
+! Extra }, or forgotten $.
+\endtabular ->\crcr \egroup \egroup 
+                                    $\egroup 
+l.17 ^^I\end{tabular}
+                     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Overfull \hbox (298.75395pt too wide) in paragraph at lines 10--18
+ [][] 
+ []
+
+! Undefined control sequence.
+l.21 ^^I{\heiti
+                \xiaoer \thisyear 年 \thismonth 月 \thisday 日}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 ^^I{\heiti \xiaoer
+                        \thisyear 年 \thismonth 月 \thisday 日}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 ^^I{\heiti \xiaoer \thisyear
+                                  年 \thismonth 月 \thisday 日}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 ^^I{\heiti \xiaoer \thisyear 年
+                                    \thismonth 月 \thisday 日}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 年 ("5E74) in font nullfont!
+! Undefined control sequence.
+l.21 ^^I{\heiti \xiaoer \thisyear 年 \thismonth
+                                               月 \thisday 日}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 月 ("6708) in font nullfont!
+! Undefined control sequence.
+l.21 ... \xiaoer \thisyear 年 \thismonth 月 \thisday
+                                                   日}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 日 ("65E5) in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> cover.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 26 strings out of 474773
+ 535 string characters out of 5758619
+ 1918842 words of memory out of 5000000
+ 22278 multiletter control sequences out of 15000+600000
+ 558077 words of font info for 37 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 19i,7n,20p,147b,165s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
