@@ -7,4 +7,4 @@
 
 ## 效果图：
 
-![image-20241017211510720](C:\Users\zhang\AppData\Roaming\Typora\typora-user-images\image-20241017211510720.png)
+![效果图](D:\TexProject\重电--模板\效果图0.png)
